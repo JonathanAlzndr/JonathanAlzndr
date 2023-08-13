@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Jonathan Kamagi**.\
+
+Saya seorang **Siswa mobile developer learning-path** di [Dicoding](https://www.dicoding.com/).
+
+Saya mendapatkan kesempatan untuk mengikuti studi independent di Bangkit Academy batch 2 2023.
+
