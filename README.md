@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Jonathan Kamagi**.
 
-Saat ini saya merupakan **siswa android developer learning-path** di [Dicoding](https://www.dicoding.com/).
+Saat ini saya merupakan **siswa android developer learning-path** di [Dicoding](https://www.dicoding.com/).  
 
 Saya mendapatkan kesempatan untuk mengikuti studi independent di Bangkit Academy batch 2 2023.
 
+<p align="left">
+<a href="https://github.com/JonathanAlzndr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonathanAlzndr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonathanAlzndr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
