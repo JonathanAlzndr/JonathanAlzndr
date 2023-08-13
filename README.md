@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Jonathan Kamagi**.\
+Perkenalkan nama saya **Jonathan Kamagi**.
 
-Saya seorang **Siswa mobile developer learning-path** di [Dicoding](https://www.dicoding.com/).
+Saat ini saya merupakan **siswa android developer learning-path** di [Dicoding](https://www.dicoding.com/).
 
 Saya mendapatkan kesempatan untuk mengikuti studi independent di Bangkit Academy batch 2 2023.
 
