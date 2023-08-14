@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
+# Halo! 
 
 Perkenalkan nama saya **Jonathan Kamagi**.
 
