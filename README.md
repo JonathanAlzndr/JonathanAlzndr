@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo! 
-
-Perkenalkan nama saya **Jonathan Kamagi**.
-
-Saat ini saya merupakan **siswa android developer learning-path** di [Dicoding](https://www.dicoding.com/).  
-
-Saya mendapatkan kesempatan untuk mengikuti studi independent di Bangkit Academy batch 2 2023.
 
 <p align="left">
 <a href="https://github.com/JonathanAlzndr">
