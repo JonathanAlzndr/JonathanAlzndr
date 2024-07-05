@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there👋 Nice to meet you. I'm Jonathan
 
+- 🌱 I’m currently learning mobile development escpecially Android Native
+
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-kamagi/) 
+                       [Gmail](jkmagi41@gmail.com)
 <!--
 **JonathanAlzndr/JonathanAlzndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
