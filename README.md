@@ -1,28 +1,37 @@
-### Hi there👋 Nice to meet you. I'm Jonathan
+# 👋 Hi there, I'm Jonathan!
 
-- 🌱 I’m currently learning mobile development escpecially Android Native
+Welcome to my GitHub profile — glad you're here!
 
+I'm a passionate learner diving into **mobile development**, with a special focus on **Android Native**. I enjoy building apps that make life easier, look great, and work smoothly.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-kamagi/) 
-                       [Gmail](jkmagi41@gmail.com)
-<!--
-**JonathanAlzndr/JonathanAlzndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Android Native Development** (Java/Kotlin)
+- 🛠️ Exploring mobile UI/UX design, performance optimization, and architecture patterns
+- 💡 Always curious and open to new tech and collaboration opportunities
+
+---
+
+## 📬 Get in Touch
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jonathan-kamagi/)
+- 📧 jkmagi41@gmail.com
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/JonathanAlzndr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonathanAlzndr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonathanAlzndr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Jonathan's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonathanAlzndr&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+Thanks for stopping by! 😊
