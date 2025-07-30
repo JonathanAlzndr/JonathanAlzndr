@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile — glad you're here!
 
-I'm a passionate learner diving into **mobile development**, with a special focus on **Android Native**. I enjoy building apps that make life easier, look great, and work smoothly.
+I'm a passionate learner diving into mobile development, with a special focus on Android Native. I enjoy building apps that make life easier, look great, and work smoothly.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Android Native Development** (Java/Kotlin)
+- 🌱 Currently learning Android Native Development (Kotlin)
 - 🛠️ Exploring mobile UI/UX design, performance optimization, and architecture patterns
 - 💡 Always curious and open to new tech and collaboration opportunities
 
