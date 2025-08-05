@@ -7,10 +7,7 @@ I'm a passionate learner diving into mobile development, with a special focus on
 ---
 
 ## 🚀 About Me
-
-- 🌱 Currently learning Android Native Development (Kotlin)
-- 🛠️ Exploring mobile UI/UX design, performance optimization, and architecture patterns
-- 💡 Always curious and open to new tech and collaboration opportunities
+Currently using Python to build applications, integrate APIs, and work with databases — always eager to explore new tools, technologies, and ideas.
 
 ---
 
@@ -32,6 +29,6 @@ I'm a passionate learner diving into mobile development, with a special focus on
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
