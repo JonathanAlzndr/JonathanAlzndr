@@ -1,1 +1,1 @@
-![Chat Bubble](assets/chat-bubble.svg)
+<img src="assets/chat-bubble.svg" width="700" alt="Chat Bubble"/>
