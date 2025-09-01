@@ -1,1 +1,1 @@
-<object type="image/svg+xml" data="assets/chat-bubble.svg" width="700"></object>
+![Chat Bubble](assets/chat-bubble.svg)
