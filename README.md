@@ -1,4 +1,4 @@
-# I'm Jonathan 👋
+# I'm Jonathan
 ## Android Dev Enthusiast
 
 Trying to become a better Android Developer every day.
