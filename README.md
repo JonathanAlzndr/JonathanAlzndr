@@ -4,20 +4,20 @@
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <span style="background:#DCF8C6;padding:8px 12px;border-radius:20px;display:inline-block;margin:4px;">
+    <span style="background:#DCF8C6; color:#000; padding:10px 15px; border-radius:20px; display:inline-block; margin:6px; max-width:70%; text-align:left;">
       👋 Hi, I'm <b>Jonathan</b>
     </span>
   </p>
   <p>
-    <span style="background:#E6E6E6;padding:8px 12px;border-radius:20px;display:inline-block;margin:4px;">
+    <span style="background:#E6E6E6; color:#000; padding:10px 15px; border-radius:20px; display:inline-block; margin:6px; max-width:70%; text-align:left;">
       💻 Interested in <b>Android Development</b>
     </span>
   </p>
   <p>
-    <span style="background:#DCF8C6;padding:8px 12px;border-radius:20px;display:inline-block;margin:4px;">
-      📫 Connect with me below!
+    <span style="background:#DCF8C6; color:#000; padding:10px 15px; border-radius:20px; display:inline-block; margin:6px; max-width:70%; text-align:left;">
+      📫 Let's connect on LinkedIn or Gmail!
     </span>
   </p>
 </div>
